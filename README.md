@@ -26,11 +26,11 @@ Most UNIX/Linux based systems have Expect installed, however, a Windows equivale
 Naturally, building the environment starts with cloning this repo:
 
 ```bash
-git clone https://github.com/dtairych-equinix/equinix-multicloud
+git clone https://github.com/equinix-labs/multi-cloud-networking
 
 ```
 ```bash
-cd equinix-multicloud
+cd multi-cloud-networking
 ```
 
 
